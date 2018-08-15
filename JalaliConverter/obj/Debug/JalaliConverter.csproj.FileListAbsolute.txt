@@ -4,5 +4,7 @@ H:\GithubProjects\jalali-converter\JalaliConverter\JalaliConverter\obj\Debug\Jal
 H:\GithubProjects\jalali-converter\JalaliConverter\JalaliConverter\bin\Debug\JalaliConverter.exe
 H:\GithubProjects\jalali-converter\JalaliConverter\JalaliConverter\obj\Debug\JalaliConverter.exe
 H:\GithubProjects\jalali-converter\JalaliConverter\obj\Debug\JalaliConverter.csprojResolveAssemblyReference.cache
-H:\GithubProjects\jalali-converter\JalaliConverter\obj\Debug\JalaliConverter.exe
 H:\GithubProjects\jalali-converter\JalaliConverter\obj\Debug\JalaliConverter.pdb
+H:\GithubProjects\jalali-converter\JalaliConverter\bin\Debug\JalaliConverter.dll
+H:\GithubProjects\jalali-converter\JalaliConverter\bin\Debug\JalaliConverter.pdb
+H:\GithubProjects\jalali-converter\JalaliConverter\obj\Debug\JalaliConverter.dll
