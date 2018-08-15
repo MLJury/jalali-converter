@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kama.Library.Helper
+namespace JalaliConverter
 {
     public static class DateTimeExtensions
     {

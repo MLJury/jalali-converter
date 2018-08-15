@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Kama.Library.Helper
+namespace JalaliConverter
 {
     [Flags]
     public enum DateStringType : byte
